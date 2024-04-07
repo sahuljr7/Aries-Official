@@ -144,18 +144,17 @@ const About = () => {
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
       At ARIES(Advancing Research, Innovation & Education in Space Sciences), we're dedicated to advancing space education, providing resources and support to enhance astronomical learning. 
       Our mission is to cultivate a new generation of space enthusiasts, equipping them with fundamental knowledge in space sciences.
-      Through our programs, we empower kids to identify the genius within themselves and embrace their potential.
       <br/>
       <br/>
       Our Team
       <br/>
-      Anwesh Nandi
+      1. Anwesh Nandi
       <br />
-      Arashdeep Singh Wazir
+      2. Arashdeep Singh Wazir
       <br />
-      Syed Abuzaid
+      3. Syed Abuzaid
       <br />
-      Rudhar Partap Singh
+      4. Rudhar Partap Singh
       </Left>
 
       <Right>
