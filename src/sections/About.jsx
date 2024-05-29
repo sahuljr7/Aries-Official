@@ -148,13 +148,9 @@ const About = () => {
       <br/>
       Our Team
       <br/>
-      1. Anwesh Nandi
+      1. Sahul Kumar Parida
       <br />
-      2. Arashdeep Singh Wazir
-      <br />
-      3. Syed Abuzaid
-      <br />
-      4. Rudhar Partap Singh
+      2. Rohan Parija
       </Left>
 
       <Right>
